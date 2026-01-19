@@ -11,16 +11,22 @@
 
 ## How to Use
 
-1. Clone this repository:  
-   git clone https://github.com/dalxxwq/Habits-manager.git  
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/dalxxwq/Habits-manager.git
+   ``` 
 
-2. Navigate to the project folder:  
-   cd habits-manager  
+3. Navigate to the project folder:
+   ```bash
+   cd habits-manager
+   ``` 
 
-3. Run the program:  
-   python habits_manager.py  
+5. Run the program:
+   ```bash 
+   python habits_manager.py
+   ``` 
 
-4. Use the menu to add habits, view them, or check future features.
+7. Use the menu to add habits, view them, or check future features.
 
 ## Planned Features
 
