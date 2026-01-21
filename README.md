@@ -6,8 +6,8 @@
 
 - **Add habits** – Keep track of things you want to do regularly.  
 - **Show habits** – Quickly view all your current habits.  
-- **Mark habits as done** – (Coming soon) Track your progress.  
-- **Statistics** – (Coming soon) Get insights about your habit completion.
+- **Mark habits as done** – Track your progress.  
+- **Statistics** – Get insights about your habit completion.
 
 ## How to Use
 
@@ -29,9 +29,7 @@
 7. Use the menu to add habits, view them, or check future features.
 
 ## Planned Features
-
-- Mark habits as done  
-- View habit completion statistics  
+ 
 - Save habits to a file so they persist between sessions  
 
 ## Contributing
