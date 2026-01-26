@@ -1,40 +1,38 @@
 # Habits Manager
 
-**Habits Manager** is a simple Python console application to help you track your daily habits. It's beginner-friendly and uses a text-based menu for easy navigation.
+Habits Manager is a simple Python console application that helps you track your daily habits.
+It is beginner-friendly, uses a text-based menu, and saves habits between sessions.
 
 ## Features
 
-- **Add habits** – Keep track of things you want to do regularly.  
-- **Show habits** – Quickly view all your current habits.  
-- **Mark habits as done** – Track your progress.  
-- **Statistics** – Get insights about your habit completion.
+- Add habits
+- Show habits
+- Mark habits as done
+- View statistics
+- Persistent storage using a JSON file
 
 ## How to Use
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/dalxxwq/Habits-manager.git
-   ``` 
+1. Clone the repository
+2. Open the project folder
+3. Run the program with Python
+4. Use the menu to manage your habits
 
-3. Navigate to the project folder:
-   ```bash
-   cd habits-manager
-   ``` 
+## Data Storage
 
-5. Run the program:
-   ```bash 
-   python habits_manager.py
-   ``` 
-
-7. Use the menu to add habits, view them, or check future features.
+All habits are saved in the file habits.json, so your data is preserved after closing the program.
 
 ## Planned Features
- 
-- Save habits to a file so they persist between sessions  
+
+- Delete habits
+- Unmark habits as done
+- Habit streaks
+- Date-based tracking
 
 ## Contributing
 
-Contributions are welcome! If you have ideas to improve this project, feel free to open an issue or submit a pull request.
+Contributions are welcome.
+You can open an issue or submit a pull request if you have ideas for improvements.
 
 ## License
 
